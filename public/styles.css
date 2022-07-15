@@ -135,11 +135,21 @@
     color: white;
     position: absolute;
     top: 200px;
-    left: 70px;
     font-size: 1.2rem;
     font-family: var(--font);
     font-weight: 300;
     width: 495px;
+}
+
+.projects-title{
+    color: white;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.projects-title:hover{
+    color:#2dabd2;
+    text-decoration: none;
 }
 
 #content-bg{
